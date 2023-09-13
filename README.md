@@ -1,6 +1,6 @@
-
+![logo](https://github.com/bunnyprajwal1210/bunnyprajwal1210/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Prajwal R</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate fullstack web developer from India</h3>
 
 <img align="right" alt="develop" width="400" src= "https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
 
