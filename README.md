@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal R</h1>
-<h3 align="center">Hello there! I am a Computer Science student with a good foundation in Java and full-stack development. With experience in coding and design, I can deliver high-quality projects that meet your specific requirements. I am currently learning Machine Learning with Python and eager to continue learning and growing my skills in this area. As an engineering student, I honed my skills through internships in leading technology companies. These experiences have given me the knowledge and skills needed to succeed in the world of technology.</h3>
+<h3 align="center">Hello there👋! I am a computer science student with a good foundation in Java and full-stack development. With experience in coding and design, I can deliver high-quality projects that meet your specific requirements. I am currently learning machine learning with Python and am eager to continue learning and growing my skills in this area. As an engineering student, I honed my skills through internships at leading technology companies. These experiences have given me the knowledge and skills needed to succeed in the world of technology.</h3>
 
 - 🌱 I’m currently learning **React, MongoDB, Python**
 
