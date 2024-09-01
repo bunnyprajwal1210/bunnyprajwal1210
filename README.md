@@ -8,7 +8,7 @@
 
 ---
 
-I am a computer science student with a good foundation in Java and full-stack development. With experience in coding and design, I can deliver high-quality projects that meet your specific requirements. I am currently learning machine learning with Python and am eager to continue learning and growing my skills in this area. As an engineering student, I honed my skills through internships at leading technology companies. These experiences have given me the knowledge and skills needed to succeed in the world of technology.
+I am a computer science student with a good foundation in Java and full-stack development. With experience in coding and design, I can deliver high-quality projects that meet your specific requirements. I am currently learning MangoDB and Python and am eager to continue learning and growing my skills in this area. As an engineering student, I honed my skills through internships at leading technology companies. These experiences have given me the knowledge and skills needed to succeed in the world of technology.
 
 ---
 
