@@ -39,7 +39,3 @@ I am a computer science student with a good foundation in Java and full-stack de
     <img src="https://streak-stats.demolab.com/?user=bunnyprajwal1210&theme=ads-juicy-fresh" alt="Prajwal's GitHub Streak" width="400" height="150"/>
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyprajwal1210&layout=compact&theme=radical&hide=swift,csharp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyprajwal1210&layout=compact&theme=radical&hide=swift,csharp" alt="Top Languages" width="400" height="150"/>
-</a>
-
